@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 setup(
     name='fsm_strip_length_vibration_analysis',
     version='1.0.0',
-    url='https://bitbucket.org/petar/fsm_strip_length_vibration_analysis',
+    url='https://github.com/petarmaric/fsm_strip_length_vibration_analysis',
     license='BSD',
     author='Petar Maric',
     author_email='petarmaric@uns.ac.rs',
