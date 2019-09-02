@@ -1,0 +1,12 @@
+fsm_strip_length_vibration_analysis 1.0.1 (September 2, 2019)
+=============================================================
+
+Bugfixes
+--------
+
+    * Migrated from Bitbucket (Mercurial) to GitHub (Git).
+
+fsm_strip_length_vibration_analysis 1.0.0 (April 23, 2018)
+==========================================================
+
+    * Initial release.

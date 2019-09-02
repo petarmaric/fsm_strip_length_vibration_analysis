@@ -13,7 +13,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 FIGURE_SIZE = (11.7, 8.3) # In inches
